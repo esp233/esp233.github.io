@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, friends!
-======
-My name is Jiaxi Hou. I am an incoming Research Fellow at the RMIT node of the Australian Research Council Centre of Excellence for Automated Decision-Making & Society. I earned my PhD in Interdisciplinary Information Studies from the University of Tokyo in 2024, where I also completed my master's degree. Prior to that, I received a B.A. in Journalism and Communication from Tsinghua University and worked as a news editor and documentary producer in Beijing. 
+Hi, friends! My name is Jiaxi Hou. I am an incoming Research Fellow at the RMIT node of the Australian Research Council Centre of Excellence for Automated Decision-Making & Society. I earned my PhD in Interdisciplinary Information Studies from the University of Tokyo in 2024, where I also completed my master's degree. Prior to that, I received a B.A. in Journalism and Communication from Tsinghua University and worked as a news editor and documentary producer in Beijing. 
 
 My research revolves around a central question: How do digital technologies intertwine with the subaltern pursuits of living a better life within the increasingly unequal societies? My doctoral research focuses on the digital reconfiguration of poverty, inequality, and marginality in contemporary China by revisiting and critiquing Marxist concept of class. Titiled *Reassambling Class in Digital China: Inequality, Technology, and Agency from Below*, it is an ethnographic exploration of how Chinese disadvantaged populations, such as peasants and migrants, excercise agency in their pursuit of social mobility and alternative ways of living through active engagement with mobile devices and digital platforms. While digital inclusion appears empowering, my work shows that this process often contributes to an engulfing post-socialist, post-industrial, and technology-mediated structure that further exploits and marginalizes the underprivileged groups. I refer to this phenomenon as the emergence of the *digital lumpen proletariat*, a neoliberal class-based subjectivity. 
 
