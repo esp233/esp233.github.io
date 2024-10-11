@@ -23,7 +23,8 @@ author:
   # Biographic information
   avatar           : "jiaxi.png"
   name             : "Jiaxi Hou 侯佳希"
-  pronouns         : # example: "she/her"  
+  
+  pronouns         : "she/her"  
   bio              : # "an ethnographer focusing on the remaking of marginality in our digital era"
   location         : "Melbourne, Australia"
   employer         : "RMIT"
