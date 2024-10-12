@@ -2,12 +2,12 @@
 title: "Making ends meet by mining on blockchain: Subalternity, materiality, and yearnings of Chinese amateur crypto miners"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2023-6-29-paper-title-number-3
 excerpt: 'This paper traces how Chinese precarious workers, micro-entrepreneurs in informal economy, and the under/unemployed who lost their income stream during Covid-19 pandemic and turned to blockchains and crypto mining to make ends meet. It discusses the reconfiguration of contextualized subalternity in China where crypto mining is strictly regulated and deeply stigmatized'
 date: 2023-6-29
-venue: 'Journal of Digital Social Research'
-slidesurl: '(https://doi.org/10.33621/jdsr.v5i2.133)'
-paperurl: '(https://doi.org/10.33621/jdsr.v5i2.133)'
+venue: 'Journal 1'
+slidesurl: 'https://doi.org/10.33621/jdsr.v5i2.133'
+paperurl: 'https://doi.org/10.33621/jdsr.v5i2.133'
 citation: 'Hou, J. (2023). &quot;Making Ends Meet by Mining on Blockchain: Subalternity, Materiality, and Yearnings of Chinese Amateur Crypto-miners.&quot; <i>Journal of Digital Social Research</i>. 5(2).'
 ---
 
