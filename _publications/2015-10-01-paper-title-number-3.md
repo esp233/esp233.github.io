@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "Making ends meet by mining on blockchain: Subalternity, materiality, and yearnings of Chinese amateur crypto miners"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'This paper traces how Chinese precarious workers, micro-entrepreneurs in informal economy, and the under/unemployed who lost their income stream during Covid-19 pandemic and turned to blockchains and crypto mining to make ends meet. It discusses the reconfiguration of contextualized subalternity in China where crypto mining is strictly regulated and deeply stigmatized'
+date: 2023-6-29
+venue: 'Journal of Digital Social Research'
+slidesurl: '(https://doi.org/10.33621/jdsr.v5i2.133)'
+paperurl: '(https://doi.org/10.33621/jdsr.v5i2.133)'
+citation: 'Hou, J. (2023). &quot;Making Ends Meet by Mining on Blockchain: Subalternity, Materiality, and Yearnings of Chinese Amateur Crypto-miners.&quot; <i>Journal of Digital Social Research</i>. 5(2).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+While public narratives indicate that blockchain is widely used in developed societies among privileged elites, either from socio-economic, ethnic, or techno-cultural perspectives, this study examines how some disadvantaged marginal others, specifically the subaltern shehuiren in China, survive in the increasingly precarious post-socialist Chinese society by engaging with blockchain and cryptocurrencies. Literally translated as “society people”, shehuiren are the socio-economically and techno-culturally disadvantaged others who face marginality due to various post-socialist institutional inequalities. This study aims at unpacking how, on the one hand, the blockchain scene has been reconfigured by the disadvantaged in the local context, and on the other hand, how subalternity is actualized in post-socialist China, where blockchain-related technologies deeply intertwine with various forms of social inequalities. By tracing a group of shehuiren crypto miners through ethnography, I demonstrate that this subaltern scene of blockchain not just reshapes the shehuiren individuals’ notion of time, space, and value and the social relationship among themselves, but also profoundly impacts the power dynamics between the subalterns, the more privileged others, and the state authorities. Specifically, I underline that, despite being treated as losers, outsiders, and potential wrongdoers due to the existing social structures, shehuiren miners are neither victims nor rebels opposing either the authoritarian state or the global neoliberal order. Instead, they are actors who harvest limited profits through their unacknowledged creativity, adeptly making use of various resources within their reach and weaving their differential aspirations by attaching themselves to the larger technology-mediated networks in an unequal post-socialist society where a united subaltern hardly exists.
