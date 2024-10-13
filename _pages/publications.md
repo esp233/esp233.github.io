@@ -10,16 +10,21 @@ My research unpacks the remaking of social class, particularly the underclass in
 ## Gig Work, Informal Labor, and Digital Gaming
 
 ### Playing to Earn: An Overview of Chinese Informal Gamer-Workers
-**Hou, J.**, & Liu, X. in *Global Media and China*, Under Review.
+**Hou, J.**, & Liu, X. in *Global Media and China*, under review.
 
 **Abstract**: China has emerged as a superpower in the realm of digital gaming. The prosperity of China’s digital gaming ecosystem would be unattainable without the contributions of large armies of informal gamer-workers, many of whom coming from underprivileged backgrounds. Gamer-workers are individuals whose gaming experiences are deeply intertwined with the career aspirations and earning a livelihood. While previous analyses have examined separate roles, such as gold farmers, play companions, and live streamers, these have yet to be unified into a “big picture” of informal play-to-earn practices. This paper presents an overview that highlights the intrinsic connections among the multiple types of gamer-workers and explores the social perceptions and functions of their digital game labor. 
  
 ## Cultural Creation, Class Conflicts, and Grassroot Entrepreneurship
 
+### Vulgarizing a Subaltern Taste on Chinese Social Media: The Rise and Fall of *Hanmai* Rap and Social Shake Dance
+**Hou, J.** in *Internet Vulgarities in China: Cultures, Governance and Politics*, forthcoming. 
+
+**Abstract**: This chapter explores the rise, fall, and resurgence of *hanmai* 喊麦 rap and social shake dance 社会摇 on Kuaishou, a TikTok like mobile app popular among the Chinese underclass. The two interconnected genres are often viewed as crude expressions devoid of aesthetic value, or as a form of grassroots resistance in the Chinese public sphere. However, moving beyond these interpretations, this chapter highlights how the public portrayal of the two Internet sensations as vulgar embodies a socio-cultural mechanism of marginalization in China today. Vulgarity intertwines with subalternity and is deeply influenced by platform architectures, state interventions, and the gaze of middle-class audiences.   
+
 ### "Selling Poverty" on Kuaishou: How Entrepreneurialism Disciplines Chinese Underclass Online Participation
 **Hou, J.**, & Zhang, Y. in *Global Media and China*, 7(3), 263-82, 2022.
 
-**Abstract**: The meanings of underclass in China are increasingly ambivalent when various disadvantaged social groups become new internet users. This study examines how a number of underprivileged communities like peasants, ethnic minorities, and migrants represent poverty and themselves by creating short videos and performing live-commerce on Kuaishou, a TikTok like mobile app. It highlights that platform-based entrepreneurialism has become an interlocking governmentality to discipline the underclass' online participation. [**Read More**](https://doi.org/10.1177/20594364221095895)
+**Abstract**: The meanings of underclass in China are increasingly ambivalent when various disadvantaged social groups become new internet users. This study examines how a number of underprivileged communities like peasants, ethnic minorities, and migrants represent poverty and themselves by creating short videos and performing live-commerce on Kuaishou. It highlights that platform-based entrepreneurialism has become an interlocking governmentality to discipline the underclass' online participation. [**Read More**](https://doi.org/10.1177/20594364221095895)
 
 ### A Platform for Underclass Youth: Hanmai Rap Videos, Social Class, and Surveillance on Chinese Social Media
 **Hou, J.** in *First Monday*, 26(9), 2021.
@@ -28,6 +33,8 @@ My research unpacks the remaking of social class, particularly the underclass in
 
 ### Contesting the Vulgar *Hanmai* 喊麦 Performance from Kuaishou: Online Vigilantism toward Chinese Underclass Youths on Social Media Platforms
 **Hou, J.** in *Introducing Vigilant Audiences*, pp.49-75, 2020.
+
+**Abstract**: This study traces various vigilant practices targeting *hanmai* 喊麦 creators and fans in Chinese digital landscape. While *hanmai* rap culture paves the way for an emerging collective identity among diverse underclass groups, its technologically mediated visibility also reinforces class struggles. Particularly, middle-class audiences of *hanmai* use aethetic, moral, and technological concerns as a weapon to denounce the vulgarities of Chinese underclass and demonstrate their own superiority. [**Read More**](https://doi.org/10.11647/OBP.0200.03)  
 
 ## Fan Communities, Data Activism, and Consumption
 
