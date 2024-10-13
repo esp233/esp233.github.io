@@ -4,13 +4,27 @@ permalink: /publications/
 title: "Publications"
 author_profile: true
 ---
+Research
+------
+My research unpacks the remaking of social class, particularly the underclass in contemporary China, from the following four dimensions: labor, cultural creation, consumption, and financialization. 
 
-My research about the socio-economically disadvantaged populations' engagement with digital technologies unfolds in following directions.
+## Gig Work, Informal Labor, and Digital Gaming
 
-# Kuaishou, *Hanmai* Rap Culture, and Entrepreneurship
+### Playing to Earn: An Overview of Chinese Informal Gamer-Workers
+**Hou, J.**, & Liu, X. in *Global Media and China*, Under Review.
+China has emerged as a superpower in the realm of digital gaming. The prosperity of China’s digital gaming ecosystem would be unattainable without the contributions of large armies of informal gamer-workers, many of whom coming from underprivileged backgrounds. 
+Gamer-workers are individuals whose gaming experiences are deeply intertwined with the career aspirations and earning a livelihood. While previous analyses have examined separate roles performed by informal gamer-workers—such as gold farmers, play companions, and live streamers—these have yet to be unified into a “big picture” of informal play-to-earn practices. This paper presents an overview that highlights the intrinsic connections among the multiple types of gamer-workers and explores the social perceptions and functions of their digital game labor. 
+ 
+## Cultural Creation, Communities, and Grassroot Entrepreneurship
+### "Selling Poverty" on Kuaishou: How Entrepreneurialism Disciplines Chinese Underclass Online Participation
+**Hou, J.** & Zhang, Y. in *Global Media and China*, 2022.
 
-## 2023年
+## Fandom, Data Activism, and Consumption
 
+## Blockchain, Cryptocurrencies, and Financialization
+
+Academic Review
+------
 ### 深度学习在图像识别中的应用
 作者：您的名字, 其他作者
 发表于：人工智能杂志, 2023
