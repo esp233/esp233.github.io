@@ -7,6 +7,10 @@ author_profile: true
 
 My research unpacks the remaking of social class, particularly the underclass in contemporary China, from the following four dimensions: **precarious labor**, **cultural creation**, **consumption**, and **financialization**. 
 
+I also regularly write reviews for books on **critical internet studies**, **platform economy**, and **cultural studies** that concentrate on the global experiences of marginalized communities.
+
+Click here to view my publications in chronological order or check my Google Scholar Profile for updates. 
+
 ## Gig Work, Informal Labor, and Digital Gaming
 
 ### Playing to Earn: An Overview of Chinese Informal Gamer-Workers
@@ -37,6 +41,16 @@ My research unpacks the remaking of social class, particularly the underclass in
 **Abstract**: This study traces various vigilant practices targeting *hanmai* 喊麦 creators and fans in Chinese digital landscape. While *hanmai* rap culture paves the way for an emerging collective identity among diverse underclass groups, its technologically mediated visibility also reinforces class struggles. Particularly, middle-class audiences of *hanmai* use aethetic, moral, and technological concerns as a weapon to denounce the vulgarities of Chinese underclass and demonstrate their own superiority. [**Read More**](https://doi.org/10.11647/OBP.0200.03)  
 
 ## Fan Communities, Data Activism, and Consumption
+
+### Short Video Activism with and on Douyin: An Innovative Repertoire of Contention for Chinese Consumers
+Yu, Z., **Hou, J.**, & Zhou, T. in *Social Media + Society*, 9(1), 2023. 
+
+**Abstract**: This article examines consumer video activism tactics in China and their impact on Chinese consumers and society. It argues that short-video-activism tactics have become an innovative repertoire of contention for Chinese consumers and Douyin, the "sister app" of TikTok, has become a real-time updated database of this repertoire. Specifically, Douyin plays three key roles in mediating Chinese consumer activism: a techno-cultural construct that affords highly heterogeneous users to present everyday experiences via short videos; a multisided market that profoundly affects the tactics consumers choose to amplify their voices; and a governing entity that both moderates content for its users and simultaneously is subject to government regulations. [**Read More**](https://doi.org/10.1177/20563051231157603)
+
+### To Exaggerate Data at All Costs: Data-Driven Fan Culture, Platforms, and the Remaking of the New Poor in China
+**Hou, J.** in *Asiascape: Digital Asia* 9(3), 273-301, 2022.
+
+**Abstract**: 
 
 ## Blockchain, Cryptocurrencies, and Financialization
 
