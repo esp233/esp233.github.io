@@ -1,17 +1,13 @@
 ---
 layout: archive
 permalink: /publications/
-title: "Automatic publications page generated from md file"
+title: "Publications"
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  Automatic publications page generated from md file. You can also find my articles on <a href="{{author.googlescholar}}">my Google Scholar profile</a>.
-{% endif %}
+My research about the socio-economically disadvantaged populations' engagement with digital technologies unfolds in following directions.
 
-(Automatic publications page generated from md file)This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
-# 期刊文章
+# Kuaishou, *Hanmai* Rap Culture, and Entrepreneurship
 
 ## 2023年
 
@@ -25,7 +21,7 @@ author_profile: true
 作者：您的名字, 其他作者
 发表于：计算机科学前沿, 2022
 
-# 会议论文
+# Fan Culture, Data Activism, and Consumption
 
 ## 2023年
 
@@ -36,6 +32,8 @@ author_profile: true
 
 ### 自然语言处理中的新型神经网络架构
 发表于：计算语言学年会（ACL）2022
+
+# Blockchain, Crypto Market, and Financialization
 
 A data-driven personal website
 ======
