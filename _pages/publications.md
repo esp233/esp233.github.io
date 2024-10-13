@@ -4,8 +4,7 @@ permalink: /publications/
 title: "Publications"
 author_profile: true
 ---
-Research
-------
+
 My research unpacks the remaking of social class, particularly the underclass in contemporary China, from the following four dimensions: **precarious labor**, **cultural creation**, **consumption**, and **financialization**. 
 
 ## Gig Work, Informal Labor, and Digital Gaming
@@ -13,20 +12,24 @@ My research unpacks the remaking of social class, particularly the underclass in
 ### Playing to Earn: An Overview of Chinese Informal Gamer-Workers
 **Hou, J.**, & Liu, X. in *Global Media and China*, Under Review.
 
-**Abstract**: China has emerged as a superpower in the realm of digital gaming. The prosperity of China’s digital gaming ecosystem would be unattainable without the contributions of large armies of informal gamer-workers, many of whom coming from underprivileged backgrounds. 
-
-Gamer-workers are individuals whose gaming experiences are deeply intertwined with the career aspirations and earning a livelihood. While previous analyses have examined separate roles performed by informal gamer-workers, such as gold farmers, play companions, and live streamers, these have yet to be unified into a “big picture” of informal play-to-earn practices. This paper presents an overview that highlights the intrinsic connections among the multiple types of gamer-workers and explores the social perceptions and functions of their digital game labor. 
+**Abstract**: China has emerged as a superpower in the realm of digital gaming. The prosperity of China’s digital gaming ecosystem would be unattainable without the contributions of large armies of informal gamer-workers, many of whom coming from underprivileged backgrounds. Gamer-workers are individuals whose gaming experiences are deeply intertwined with the career aspirations and earning a livelihood. While previous analyses have examined separate roles, such as gold farmers, play companions, and live streamers, these have yet to be unified into a “big picture” of informal play-to-earn practices. This paper presents an overview that highlights the intrinsic connections among the multiple types of gamer-workers and explores the social perceptions and functions of their digital game labor. 
  
-## Cultural Creation, Communities, and Grassroot Entrepreneurship
+## Cultural Creation, Class Conflicts, and Grassroot Entrepreneurship
 
 ### "Selling Poverty" on Kuaishou: How Entrepreneurialism Disciplines Chinese Underclass Online Participation
-**Hou, J.**, & Zhang, Y. in *Global Media and China*, 2022.
+**Hou, J.**, & Zhang, Y. in *Global Media and China*, 7(3), 263-82, 2022.
 
-**Abstract**: The meanings of underclass in China are increasingly ambivalent when various disadvantaged social groups become new internet users. This study examines how a number of underprivileged communities like peasants, ethnic minorities, and migrants represent poverty and themselves by creating short videos and performing live-commerce on Kuaishou. It highlights that digital entrepreneurialism has become an interlocking governmentality to discipline the underclass' online participation. [Open Access](https://doi.org/10.1177/20594364221095895).
+**Abstract**: The meanings of underclass in China are increasingly ambivalent when various disadvantaged social groups become new internet users. This study examines how a number of underprivileged communities like peasants, ethnic minorities, and migrants represent poverty and themselves by creating short videos and performing live-commerce on Kuaishou, a TikTok like mobile app. It highlights that platform-based entrepreneurialism has become an interlocking governmentality to discipline the underclass' online participation. [**Read More**](https://doi.org/10.1177/20594364221095895)
 
 ### A Platform for Underclass Youth: Hanmai Rap Videos, Social Class, and Surveillance on Chinese Social Media
-**Hou, J.** in *First Monday*, 2021.
-## Fandom, Data Activism, and Consumption
+**Hou, J.** in *First Monday*, 26(9), 2021.
+
+**Abstract**: This essay investigates what role social media have played in the emergence of an underclass habitus among Chinese youth. By focusing on the rise and fall of a participatory *hanmai* 喊麦 rap culture on Kuaishou, it illustrates how social media platforms effectively mediate, regulate, and buttress class conflicts and social differentiation in China by constantly reshaping their algorithmic structures, monetization strategies, and governing policies. [**Read More**](https://doi.org/10.5210/fm.v26i9.10587)
+
+### Contesting the Vulgar *Hanmai* 喊麦 Performance from Kuaishou: Online Vigilantism toward Chinese Underclass Youths on Social Media Platforms
+**Hou, J.** in *Introducing Vigilant Audiences*, pp.49-75, 2020.
+
+## Fan Communities, Data Activism, and Consumption
 
 ## Blockchain, Cryptocurrencies, and Financialization
 
