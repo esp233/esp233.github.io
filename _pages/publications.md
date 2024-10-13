@@ -9,7 +9,7 @@ My research unpacks the remaking of social class, particularly the underclass in
 
 I also regularly write reviews for books on **critical internet studies**, **platform economy**, and **cultural studies** that concentrate on the global experiences of marginalized communities.
 
-Click here to view my publications in chronological order or check my Google Scholar Profile for updates. 
+Click here to view my publications in chronological order or check [my Google Scholar Profile](https://scholar.google.com/citations?user=hw-HB1gAAAAJ&hl=en) for updates. 
 
 ## Gig Work, Informal Labor, and Digital Gaming
 
@@ -57,15 +57,18 @@ Yu, Z., **Hou, J.**, & Zhou, T. in *Social Media + Society*, 9(1), 2023.
 ### Making Ends Meet by Mining on Blockchain: Subalternity, Materiality, and Yearnings of Chinese Amateur Crypto Miners
 **Hou, J.** in *Journal of Digital Social Research*, 5(2), 80-117, 2023.
 
-**Abstract**: While public narratives indicate that blockchain is widely used in developed societies among privileged elites, either from socio-economic, ethnic, or techno-cultural perspectives, this study examines how some disadvantaged marginal others, specifically the subaltern *shehuiren* 社会人 in China, survive in the increasingly precarious post-socialist Chinese society by engaging with blockchain and cryptocurrencies. Literally translated as “society people”, *shehuiren* are the socio-economically and techno-culturally disadvantaged others who face marginality due to various post-socialist institutional inequalities. This study unpacks how, on the one hand, the blockchain scene has been reconfigured by the disadvantaged in the local context, and on the other hand, how subalternity is actualized in post-socialist China, where blockchain-related technologies deeply intertwine with various forms of social inequalities. [Read More](https://doi.org/10.33621/jdsr.v5i2.133)
+**Abstract**: While public narratives indicate that blockchain is widely used in developed societies among privileged elites, either from socio-economic, ethnic, or techno-cultural perspectives, this study examines how some disadvantaged marginal others, specifically the subaltern *shehuiren* 社会人 in China, survive in the increasingly precarious post-socialist Chinese society by engaging with blockchain and cryptocurrencies. Literally translated as “society people”, *shehuiren* are the socio-economically and techno-culturally disadvantaged others who face marginality due to various post-socialist institutional inequalities. This study unpacks how, on the one hand, the blockchain scene has been reconfigured by the disadvantaged in the local context, and on the other hand, how subalternity is actualized in post-socialist China, where blockchain-related technologies deeply intertwine with various forms of social inequalities. [**Read More**](https://doi.org/10.33621/jdsr.v5i2.133)
 
 ## Academic Reviews
 
 ***On the Edge: Feeling Precarious in China*** by Margaret Hillenbrand (A Conversation)
+
 **Hou, J.**, & Hillenbrand, M. in *Asiascape: Digital Asia*, 2024.
 
 ***Rude Citizenship: Jamaican Popular Music, Copyrights, and the Reverberations of Colonial Power*** by Larisa Kingston Mann
+
 **Hou, J.** in *International Journal of Communication*, 2023.
 
 ***Appified: Culture in the Age of Apps*** edited by Jeremy W. Morris and Sarah Murray
+
 **Hou, J.** in *Mobile Meida & Communication*, 2021
