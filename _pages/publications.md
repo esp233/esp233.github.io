@@ -6,19 +6,26 @@ author_profile: true
 ---
 Research
 ------
-My research unpacks the remaking of social class, particularly the underclass in contemporary China, from the following four dimensions: labor, cultural creation, consumption, and financialization. 
+My research unpacks the remaking of social class, particularly the underclass in contemporary China, from the following four dimensions: **precarious labor**, **cultural creation**, **consumption**, and **financialization**. 
 
 ## Gig Work, Informal Labor, and Digital Gaming
 
 ### Playing to Earn: An Overview of Chinese Informal Gamer-Workers
 **Hou, J.**, & Liu, X. in *Global Media and China*, Under Review.
-China has emerged as a superpower in the realm of digital gaming. The prosperity of China’s digital gaming ecosystem would be unattainable without the contributions of large armies of informal gamer-workers, many of whom coming from underprivileged backgrounds. 
-Gamer-workers are individuals whose gaming experiences are deeply intertwined with the career aspirations and earning a livelihood. While previous analyses have examined separate roles performed by informal gamer-workers—such as gold farmers, play companions, and live streamers—these have yet to be unified into a “big picture” of informal play-to-earn practices. This paper presents an overview that highlights the intrinsic connections among the multiple types of gamer-workers and explores the social perceptions and functions of their digital game labor. 
+
+**Abstract**: China has emerged as a superpower in the realm of digital gaming. The prosperity of China’s digital gaming ecosystem would be unattainable without the contributions of large armies of informal gamer-workers, many of whom coming from underprivileged backgrounds. 
+
+Gamer-workers are individuals whose gaming experiences are deeply intertwined with the career aspirations and earning a livelihood. While previous analyses have examined separate roles performed by informal gamer-workers, such as gold farmers, play companions, and live streamers, these have yet to be unified into a “big picture” of informal play-to-earn practices. This paper presents an overview that highlights the intrinsic connections among the multiple types of gamer-workers and explores the social perceptions and functions of their digital game labor. 
  
 ## Cultural Creation, Communities, and Grassroot Entrepreneurship
-### "Selling Poverty" on Kuaishou: How Entrepreneurialism Disciplines Chinese Underclass Online Participation
-**Hou, J.** & Zhang, Y. in *Global Media and China*, 2022.
 
+### "Selling Poverty" on Kuaishou: How Entrepreneurialism Disciplines Chinese Underclass Online Participation
+**Hou, J.**, & Zhang, Y. in *Global Media and China*, 2022.
+
+**Abstract**: The meanings of underclass in China are increasingly ambivalent when various disadvantaged social groups become new internet users. This study examines how a number of underprivileged communities like peasants, ethnic minorities, and migrants represent poverty and themselves by creating short videos and performing live-commerce on Kuaishou. It highlights that digital entrepreneurialism has become an interlocking governmentality to discipline the underclass' online participation. [Open Access](https://doi.org/10.1177/20594364221095895).
+
+### A Platform for Underclass Youth: Hanmai Rap Videos, Social Class, and Surveillance on Chinese Social Media
+**Hou, J.** in *First Monday*, 2021.
 ## Fandom, Data Activism, and Consumption
 
 ## Blockchain, Cryptocurrencies, and Financialization
