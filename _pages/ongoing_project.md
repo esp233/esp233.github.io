@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /ongoing_project/
-title: "Automatic on ongoing_project page generated from md file"
+title: "Ongoing Projects"
 author_profile: true
 ---
 
