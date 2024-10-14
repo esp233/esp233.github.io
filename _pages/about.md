@@ -23,7 +23,7 @@ My doctoral project is a deep dive into this inquiry. It focuses on the digital 
 
 While digital inclusion may seem empowering, my dissertation shows how this process often contributes to an engulfing post-socialist, post-industrial, and technology-mediated structure that further exploits and marginalizes the underprivileged groups. I refer to this phenomenon as the emergence of the ***digital lumpen proletariat***, a class-based neoliberal subjectivity. 
 
-I also have a passion for exploring Internet-based musical practices, digital gaming cultures, and the socio-cultural histories of Asian societies. The voices of those overlooked or even humiliated are my ultimate source of inspiration.  
+I also have a passion for exploring Internet-based musical practices, digital gaming cultures, and the socio-cultural histories of Asian societies. The voices of those overlooked or even humiliated constantly drive me to think, to critique, and to act.  
 
 Beyond academia
 ------
