@@ -9,7 +9,7 @@ My research unpacks the remaking of social class, particularly the underclass in
 
 I also regularly write reviews for books on **critical internet studies**, **platform economy**, and **cultural studies** that concentrate on the global experiences of marginalized communities.
 
-Click here to view my publications in chronological order or check [my Google Scholar Profile](https://scholar.google.com/citations?user=hw-HB1gAAAAJ&hl=en) for updates. 
+Check my [**CV**](../assets/cv202410.pdf) to view my publications in chronological order or my [**Google Scholar Profile**](https://scholar.google.com/citations?user=hw-HB1gAAAAJ&hl=en) for updates. 
 
 ## Gig Work, Informal Labor, and Digital Gaming
 
@@ -50,7 +50,7 @@ Yu, Z., **Hou, J.**, & Zhou, T. in *Social Media + Society*, 9(1), 2023.
 ### To Exaggerate Data at All Costs: Data-Driven Fan Culture, Platforms, and the Remaking of the New Poor in China
 **Hou, J.** in *Asiascape: Digital Asia* 9(3), 273-301, 2022.
 
-**Abstract**: Among Chinese fans of "traffic celebrities" 流量明星, generating excessive data either on digital platforms or various sales charts to inflate a specific entertainer’s popularity has become a normalized ritual to demonstrate their fan identity. The so-called fandom economy effectively mobilizes fans from diverse socio-economic backgrounds to consume and participate, thus generating tremendous revenue. Although some fans can easily satisfy their consumerist desire for being economically powerful and socially successful, many others who are seduced by the communitas of fan activism and agency as consumers cannot or are not yet fully able to afford this lifestyle. This study unpacks how these fans are seduced and, to some extent, included but still exploited in the transitional Chinese consumer society as what Bauman calls the "new poor", for whom digital platforms have become a new structuring nexus and transform the existing power dynamics. [Read More] 
+**Abstract**: Among Chinese fans of "traffic celebrities" 流量明星, generating excessive data either on digital platforms or various sales charts to inflate a specific entertainer’s popularity has become a normalized ritual to demonstrate their fan identity. The so-called fandom economy effectively mobilizes fans from diverse socio-economic backgrounds to consume and participate, thus generating tremendous revenue. Although some fans can easily satisfy their consumerist desire for being economically powerful and socially successful, many others who are seduced by the communitas of fan activism and agency as consumers cannot or are not yet fully able to afford this lifestyle. This study unpacks how these fans are seduced and, to some extent, included but still exploited in the transitional Chinese consumer society as what Bauman calls the "new poor", for whom digital platforms have become a new structuring nexus and transform the existing power dynamics. [**Read More**](../assets/Poor_Fans.pdf) 
 
 ## Blockchain, Cryptocurrencies, and Financialization
 
@@ -63,12 +63,13 @@ Yu, Z., **Hou, J.**, & Zhou, T. in *Social Media + Society*, 9(1), 2023.
 
 ***On the Edge: Feeling Precarious in China*** by Margaret Hillenbrand (A Conversation)
 
-**Hou, J.**, & Hillenbrand, M. in *Asiascape: Digital Asia*, 2024.
+**Hou, J.**, & Hillenbrand, M. in *Asiascape: Digital Asia*, forthcoming.
 
 ***Rude Citizenship: Jamaican Popular Music, Copyrights, and the Reverberations of Colonial Power*** by Larisa Kingston Mann
 
-**Hou, J.** in *International Journal of Communication*, 2023.
+**Hou, J.** in *International Journal of Communication*, 2023.[**Read More**](https://ijoc.org/index.php/ijoc/article/view/22385)
+
 
 ***Appified: Culture in the Age of Apps*** edited by Jeremy W. Morris and Sarah Murray
 
-**Hou, J.** in *Mobile Meida & Communication*, 2021
+**Hou, J.** in *Mobile Meida & Communication*, 2021.[**Read More**](https://journals.sagepub.com/doi/abs/10.1177/20501579211024893b)
