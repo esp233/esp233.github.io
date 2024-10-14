@@ -67,9 +67,9 @@ Yu, Z., **Hou, J.**, & Zhou, T. in *Social Media + Society*, 9(1), 2023.
 
 ***Rude Citizenship: Jamaican Popular Music, Copyrights, and the Reverberations of Colonial Power*** by Larisa Kingston Mann
 
-**Hou, J.** in *International Journal of Communication*, 2023.[**Read More**](https://ijoc.org/index.php/ijoc/article/view/22385)
+**Hou, J.** in *International Journal of Communication*, 2023. [**Read More**](https://ijoc.org/index.php/ijoc/article/view/22385)
 
 
 ***Appified: Culture in the Age of Apps*** edited by Jeremy W. Morris and Sarah Murray
 
-**Hou, J.** in *Mobile Meida & Communication*, 2021.[**Read More**](https://journals.sagepub.com/doi/abs/10.1177/20501579211024893b)
+**Hou, J.** in *Mobile Meida & Communication*, 2021. [**Read More**](https://journals.sagepub.com/doi/abs/10.1177/20501579211024893b)
