@@ -5,7 +5,35 @@ title: "Ongoing Projects"
 author_profile: true
 ---
 
+My current work covers the following areas: the **implementation and application of automated systems such as AI and blockchains in subaltern contexts across the Asia Pacific**, **grassroot efforts for online participation and the remaking of intersectionality in the digital era**, the **political-economic structures that condition actions from the margins**, and the **global influence of China-based digital ecosystems**.
 
+I presented some preliminary outcomes of these ongoing projects at international conferences and workshops. 
+
+## AI and Blockchain in Subaltern Contexts
+
+### Run to Earn and Stake to Lose: A Convoluted Embrace of Gamified Fintech among Chinese Disadvantaged Individuals
+
+**Hou, J.** at Symposium on the Convergence of Gamification and Financialization, 2024. 
+
+[**Read More**](https://marjz.net/blog/symposium)
+
+## Grassroot Efforts
+
+### Algorithm-based Hidden Transcripts: The Micropolitics of Chinese Rural Mothers on Kuaishou
+
+**Hou, J.** at The 21st Chinese Internet Research Conference, 2024.
+
+[**Read More**](https://www.admscentre.org.au/circ-2024-program/)
+
+### "Moving Bricks" in Digital Gaming: The Digital Housewifeness of Chinese Gamer-Workers
+
+**Hou, J.** at IAMCR and Global Perspectives on Platforms, Labor & Social Reproduction, 2023. 
+
+[**Read More**](../assets/gamer_simplified.pdf)
+
+## Political-Economic Structures
+
+## China-based digital ecosystems and the World
 (Automatic publications page generated from md file)This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 # 期刊文章
