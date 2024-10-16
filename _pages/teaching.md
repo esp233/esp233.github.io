@@ -21,6 +21,6 @@ Undergraduate course, Teaching Assistant
 
 Graduate course, Teaching Assistant
 
-### Computer-Mediated Communication, Social Media, and Mediated Publicness
+### Computer-Mediated Communication, Social Media, and Mediated Publicness (The University of Tokyo)
 
 Graduate course, Teaching Assistant
