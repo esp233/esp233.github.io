@@ -55,16 +55,16 @@ Shared at the Global and International Studies Program, Carleton University.
 
 ### How China's Underclass Creators Act Poor to Get Rich
 
-Previously published in [*Sixth Tone*](https://www.sixthtone.com/404), but deleted for unknown reasons.
+Previously published in [**Sixth Tone**](https://www.sixthtone.com/404), but deleted for unknown reasons.
 
 ### People on TikTok Paying Elderly Women to Sit in Stagnant Mud for Hours and Cry
 
-Read More via [**Rest of World**](https://restofworld.org/2023/indonesia-government-ban-tiktok- mud-bath/)
+My opinion as a discussant can be read via [**Rest of World**](https://restofworld.org/2023/indonesia-government-ban-tiktok- mud-bath/)
 
 ### China's Blue-Collar Workers Find Jobs over Livestream.
 
-Read More via [**Rest of World**](https://restofworld.org/2022/china-jobs-on-livestreams/)
+My opinion as a discussant can be read via [**Rest of World**](https://restofworld.org/2022/china-jobs-on-livestreams/)
 
 ### When the Invisible Underclass Become Visible on Digital Platforms
 
-Listen more via [**Time Travel Institution无时差研究所**](https://www.xiaoyuzhoufm.com/episode/62efeb3503da6b049bdbd859)
+My opinion as a discussant can be listened to via [**Time Travel Institution无时差研究所**](https://www.xiaoyuzhoufm.com/episode/62efeb3503da6b049bdbd859)
