@@ -5,7 +5,7 @@ title: "Publications"
 author_profile: true
 ---
 
-My research unpacks the remaking of social class, particularly the underclass in contemporary China, from the following four dimensions: **precarious labor**, **cultural creation**, **consumption**, and **financialization**. 
+My published research focuses on the remaking of social class, particularly the underclass in contemporary China, from the following four dimensions: **precarious labor**, **cultural creation**, **consumption**, and **financialization**. 
 
 I also regularly write reviews for books on **critical internet studies**, **platform economy**, and **cultural studies** that concentrate on the global experiences of marginalized communities.
 
