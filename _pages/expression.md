@@ -39,38 +39,32 @@ Presented at *ICA*, 2019.
 
 ### Refined Algorithm vs. Vulgar Image: Disassemble the Representations of Chinese Working-Class Youths through Online Platforms
 
-Presented at *4S*, 2018
+Presented at *4S*, 2018.
 
-## Grassroot Efforts
+## Lectures
 
-### Algorithm-based Hidden Transcripts: The Micropolitics of Chinese Rural Mothers on Kuaishou
+### Digital Ethnography
 
-**Hou, J.** at *The 21st Chinese Internet Research Conference*, 2024. [**Read More**](https://www.admscentre.org.au/circ-2024-program/)
+Shared at the School of Journalism and Communication, Tsinghua University.
 
-### "Moving Bricks" in Digital Gaming: The Digital Housewifeness of Chinese Gamer-Workers
+### Platforms and Underclass Users in East Asia
 
-**Hou, J.** at *IAMCR* and *Global Perspectives on Platforms, Labor & Social Reproduction*, 2023. [**Read More**](../assets/gamer_simplified.pdf)
+Shared at the Global and International Studies Program, Carleton University.
 
-### Love the State as an Idol: The Perplexity of Nationalism and Fandom Culture on Chinese Social Media Platform
+## Media
 
-**Hou, J.**, & Zhang, Y. at IAMCR, 2020. [**Read More**](https://tampere2020.iamcr.org/iamcr.org/node/13249.html) 
+### How China's Underclass Creators Act Poor to Get Rich
 
-## Political-Economic Structures
+Previously published in [*Sixth Tone*](https://www.sixthtone.com/404), but deleted for unknown reasons.
 
-### Assembling a Lumpen Internet in Digital China: Agency from Below, Platforms, and the State
+### People on TikTok Paying Elderly Women to Sit in Stagnant Mud for Hours and Cry
 
-**Hou, J.** at *AAS* and *4S*, 2023. 
+Read More via [**Rest of World**](https://restofworld.org/2023/indonesia-government-ban-tiktok- mud-bath/)
 
-### Fake Popularity for Real Money: Commercial Astroturfing and Data Bubble on Chinese Digital Platforms
+### China's Blue-Collar Workers Find Jobs over Livestream.
 
-Han, X., & **Hou, J.** at *AoIR*, 2021. [**Read More**](https://spir.aoir.org/ojs/index.php/spir/article/view/12179)
+Read More via [**Rest of World**](https://restofworld.org/2022/china-jobs-on-livestreams/)
 
-### The Function of a Failed Platform: PandaTV in Chinese Live-Streaming Ecosystem
+### When the Invisible Underclass Become Visible on Digital Platforms
 
-**Hou, J.** at *4S*, 2021. 
-
-## China-based digital ecosystems and the World
-
-### Provincialized Affordance between Two "Sister Apps" Taobao and AliExpress: An Alternative Globalization Strategy in Digital Platform Economy
-
-Yue, L., & **Hou, J.** at *IAMCR*, 2024.
+Listen more via [**Time Travel Institution无时差研究所**](https://www.xiaoyuzhoufm.com/episode/62efeb3503da6b049bdbd859)
