@@ -33,7 +33,7 @@ I presented some preliminary outcomes of these ongoing projects at international
 
 ### Assembling a Lumpen Internet in Digital China: Agency from Below, Platforms, and the State
 
-**Hou, J.** at *AAS* and *4S*, 2023. 
+**Hou, J.** at *4S*, 2023, and *AAS*, 2024. 
 
 ### Fake Popularity for Real Money: Commercial Astroturfing and Data Bubble on Chinese Digital Platforms
 
