@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /ongoing_project/
-title: "Ongoing Projects"
+permalink: /teaching/
+title: "Teaching"
 author_profile: true
 ---
 
