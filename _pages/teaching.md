@@ -5,46 +5,22 @@ title: "Teaching"
 author_profile: true
 ---
 
-My current work covers the following areas: the implementation and application of automated systems such as **AI and blockchains in subaltern contexts** across the Asia Pacific, **grassroot efforts** for online participation and the remaking of intersectionality in the digital era, the **political-economic structures** that condition actions from the margins, and the **global influence of China-based digital ecosystems**.
+### Introduction to Media and Communication Studies (TC Education)
 
-I presented some preliminary outcomes of these ongoing projects at international conferences and workshops, but there is much more to come!
+Undergraduate course, Instructor
 
-## AI and Blockchain in Subaltern Contexts
+### Introduction to Sociology (TC Education)
 
-### Run to Earn and Stake to Lose: A Convoluted Embrace of Gamified Fintech among Chinese Disadvantaged Individuals
+Undergraduate course, Instructor
 
-**Hou, J.** at *Symposium on the Convergence of Gamification and Financialization*, 2024. [**Read More**](https://marjz.net/blog/symposium)
+### Academic English Writing (The University of Tokyo)
 
-## Grassroot Efforts
+Undergraduate course, Teaching Assistant
 
-### Algorithm-based Hidden Transcripts: The Micropolitics of Chinese Rural Mothers on Kuaishou
+### Gender and Media Theory (The University of Tokyo)
 
-**Hou, J.** at *The 21st Chinese Internet Research Conference*, 2024. [**Read More**](https://www.admscentre.org.au/circ-2024-program/)
+Graduate course, Teaching Assistant
 
-### "Moving Bricks" in Digital Gaming: The Digital Housewifeness of Chinese Gamer-Workers
+### Computer-Mediated Communication, Social Media, and Mediated Publicness
 
-**Hou, J.** at *IAMCR* and *Global Perspectives on Platforms, Labor & Social Reproduction*, 2023. [**Read More**](../assets/gamer_simplified.pdf)
-
-### Love the State as an Idol: The Perplexity of Nationalism and Fandom Culture on Chinese Social Media Platform
-
-**Hou, J.**, & Zhang, Y. at IAMCR, 2020. [**Read More**](https://tampere2020.iamcr.org/iamcr.org/node/13249.html) 
-
-## Political-Economic Structures
-
-### Assembling a Lumpen Internet in Digital China: Agency from Below, Platforms, and the State
-
-**Hou, J.** at *AAS* and *4S*, 2023. 
-
-### Fake Popularity for Real Money: Commercial Astroturfing and Data Bubble on Chinese Digital Platforms
-
-Han, X., & **Hou, J.** at *AoIR*, 2021. [**Read More**](https://spir.aoir.org/ojs/index.php/spir/article/view/12179)
-
-### The Function of a Failed Platform: PandaTV in Chinese Live-Streaming Ecosystem
-
-**Hou, J.** at *4S*, 2021. 
-
-## China-based digital ecosystems and the World
-
-### Provincialized Affordance between Two "Sister Apps" Taobao and AliExpress: An Alternative Globalization Strategy in Digital Platform Economy
-
-Yue, L., & **Hou, J.** at *IAMCR*, 2024.
+Graduate course, Teaching Assistant
