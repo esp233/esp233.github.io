@@ -15,7 +15,7 @@ I presented some preliminary outcomes of these ongoing projects at international
 
 **Hou, J.** at *Symposium on the Convergence of Gamification and Financialization*, 2024. [**Read More**](https://marjz.net/blog/symposium)
 
-## Grassroot Efforts
+## Grassroot Efforts for Online Participation
 
 ### Algorithm-based Hidden Transcripts: The Micropolitics of Chinese Rural Mothers on Kuaishou
 
@@ -29,7 +29,7 @@ I presented some preliminary outcomes of these ongoing projects at international
 
 **Hou, J.**, & Zhang, Y. at IAMCR, 2020. [**Read More**](https://tampere2020.iamcr.org/iamcr.org/node/13249.html) 
 
-## Political-Economic Structures
+## Political-Economic Structures of Digital Ecosystems
 
 ### Assembling a Lumpen Internet in Digital China: Agency from Below, Platforms, and the State
 
@@ -43,7 +43,7 @@ Han, X., & **Hou, J.** at *AoIR*, 2021. [**Read More**](https://spir.aoir.org/oj
 
 **Hou, J.** at *4S*, 2021. 
 
-## China-based digital ecosystems and the World
+## China-based Digital Ecosystems and the World
 
 ### Provincialized Affordance between Two "Sister Apps" Taobao and AliExpress: An Alternative Globalization Strategy in Digital Platform Economy
 
