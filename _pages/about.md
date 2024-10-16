@@ -11,7 +11,7 @@ Hi, friends! My name is Jiaxi Hou. I am an interdisciplinary ethnographer explor
 
 My affiliation and educational background
 ------
-Meanwhile, I am an incoming Research Fellow at the RMIT node of the Australian Research Council Centre of Excellence for Automated Decision-Making & Society. My work contributes to one of the Centre's [**signature project**](https://www.admscentre.org.au/language-and-cultural-diversity-in-adm-australia-in-the-asia-pacific/), which explores how automated decision-making systems and cultural and linguistic diversity are mutually reshaping each other across the Asia Pacific region. 
+Meanwhile, I am an incoming Research Fellow at the RMIT node of the Australian Research Council Centre of Excellence for Automated Decision-Making & Society ([**ADM+S**](https://www.admscentre.org.au)). My work contributes to one of the Centre's [**signature project**](https://www.admscentre.org.au/language-and-cultural-diversity-in-adm-australia-in-the-asia-pacific/), which explores how automated decision-making systems and cultural and linguistic diversity are mutually reshaping each other across the Asia Pacific region. 
 
 I earned my PhD in Interdisciplinary Information Studies from the University of Tokyo in 2024, where I also completed my master's degree. My supervisor is [**Jason G. Karlin**](https://jgkarlin.org), an expert in Japanese media cultures and gender norms. Prior to that, I received a B.A. in Journalism and Communication from Tsinghua University. Click [**here**](../assets/cv202410.pdf) for my academic CV.
 
