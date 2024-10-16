@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /ongoing_project/
-title: "Ongoing Projects"
+permalink: /expression/
+title: "Expressions"
 author_profile: true
 ---
 
