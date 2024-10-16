@@ -59,7 +59,7 @@ Previously published in [**Sixth Tone**](https://www.sixthtone.com/404), but del
 
 ### People on TikTok Paying Elderly Women to Sit in Stagnant Mud for Hours and Cry
 
-My opinion as a discussant can be read via [**Rest of World**](https://restofworld.org/2023/indonesia-government-ban-tiktok- mud-bath/)
+My opinion as a discussant can be read via [**Rest of World**](https://restofworld.org/2023/indonesia-government-ban-tiktok-mud-bath/)
 
 ### China's Blue-Collar Workers Find Jobs over Livestream.
 
