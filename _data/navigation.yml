@@ -11,9 +11,8 @@ main:
   - title: "Ongoing Projects"
     url: /ongoing_project/    
 
-  - title: "Public Outreach"
-    url: /portfolio/
+  - title: "Expressions"
+    url: /expression/
     
   - title: "Teaching"
     url: /teaching/    
-        
