@@ -5,15 +5,41 @@ title: "Expressions"
 author_profile: true
 ---
 
-My current work covers the following areas: the implementation and application of automated systems such as **AI and blockchains in subaltern contexts** across the Asia Pacific, **grassroot efforts** for online participation and the remaking of intersectionality in the digital era, the **political-economic structures** that condition actions from the margins, and the **global influence of China-based digital ecosystems**.
+I have shared my previous work with audiences from diverse backgrounds through international conferences, workshops, lectures, and media.
 
-I presented some preliminary outcomes of these ongoing projects at international conferences and workshops, but there is much more to come!
+## Presentations and Invited Talks
 
-## AI and Blockchain in Subaltern Contexts
+### From Vulgar *Hanmai* to Poverty Selling: The Changing Online Subculture of the Chinese Underclass
 
-### Run to Earn and Stake to Lose: A Convoluted Embrace of Gamified Fintech among Chinese Disadvantaged Individuals
+Presented at *AAS*, 2023.
 
-**Hou, J.** at *Symposium on the Convergence of Gamification and Financialization*, 2024. [**Read More**](https://marjz.net/blog/symposium)
+### Doing Digital Ethnography on China-based Mobile Apps
+
+Presented at *Researching Mobile Apps in China: Technicity, Culture, and the Everyday Workshop*, 2022.
+
+### Can the Subaltern Benefit from Blockchain? The Chinese Amateur Crypto-Miners' Yearnings and Frustrations.
+
+Presented at *AoIR*, 2022.
+
+### To Generate at All Costs for Traffic Celebrities: The Remaking of Chinese New Poor through Data-Driven Fan Culture.
+
+Presented at *AoIR* and *The 19th Chinese Internet Research Conference*, 2022.
+
+### *Hanmai*: An Alternative Rap from the Chinese Lumpen Internet.
+
+Presented at *Internet Musicking Conference*, 2022.
+
+### Disciplining the Underclass Users on Kuaishou: *Hanmai* Rap Videos and Social Class
+
+Presented at *The 18th Chinese Internet Research Conference*, 2021.
+
+### The Authenticity and Vulgarity in the Visual Representations of Chinese Underclass: In the Platformizing Context
+
+Presented at *ICA*, 2019.
+
+### Refined Algorithm vs. Vulgar Image: Disassemble the Representations of Chinese Working-Class Youths through Online Platforms
+
+Presented at *4S*, 2018
 
 ## Grassroot Efforts
 
